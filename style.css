@@ -863,8 +863,8 @@ h4 {
     width: 130px;
 }
 .img-en-tete{
-    height: 50%;
-    width: 60%;
+    height: 50px;
+    width: 250px;
 }
 .img-text1, .img-text2, .img-text3{
     height: 20%;
@@ -873,6 +873,11 @@ h4 {
 .img-portfolio{
     height: 270px;
     width: 270px;
+}
+form{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
 }
 
 @media (max-width: 1024px) {
