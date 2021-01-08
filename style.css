@@ -17,6 +17,7 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
     color: #F3976C;
+    font-weight: bold;
 }
 
 #page-loading-blocs-notifaction {
@@ -250,7 +251,7 @@ a:hover {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -661,6 +662,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: #533d3c;
 }
 
 .hero-bloc-text-sub {
@@ -775,8 +777,15 @@ h4 {
     background-color: #F3976C;
 }
 
+.bgc-brown{
+    background-color: #533d3c;
+}
+
 .tc-white {
     color: #F3976C!important;
+}
+.tc-brown{
+    color: #533d3c!important;
 }
 
 .btn-atomic-tangerine {
@@ -831,8 +840,15 @@ h4 {
     color: #533d3c;
 }
 .col-sm-4 a:hover{
-    background-color: #533d3c;
-    color: #f3976c;
+    
+    font-weight: bold;
+}
+.form-group{
+    height: 50px;
+}
+.col-sm-3{
+    display: flex;
+    flex-flow: nowrap;
 }
 
 @media (max-width: 1024px) {
