@@ -854,6 +854,10 @@ h4 {
     height: 10%;
     width: 20%;
 }
+.img-en-tete{
+    height: 50%;
+    width: 60%;
+}
 
 @media (max-width: 1024px) {
     .bloc {
