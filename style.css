@@ -92,10 +92,10 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/*.texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-}
+}*/
 
 .b-parallax {
     background-attachment: fixed;
@@ -824,7 +824,7 @@ h4 {
     border-color: #533d3c!important;
 }
 
-.bg-dots-bg {
+/*.bg-dots-bg {
     background-image: url("img/dots-bg.png");
     width: 100%;
     height: 80%;
@@ -834,7 +834,7 @@ h4 {
     background-image: url("img/lines-h2-bg.png");
     width: 100%;
     height: 80%;
-}
+}*/
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.jpg");
