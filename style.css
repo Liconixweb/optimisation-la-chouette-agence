@@ -848,7 +848,7 @@ h4 {
     height: 80%;
 }
 
-/*correction*/
+/*corrections*/
 .col-sm-4{
     color: #533d3c;
 }
@@ -893,7 +893,7 @@ h4 {
 .adresse{
     padding: 150px 0 0 50px;
 }
-/*correction END*/
+/*corrections END*/
 
 @media (max-width: 1024px) {
     .bloc {
